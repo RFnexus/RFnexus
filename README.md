@@ -1,7 +1,7 @@
 Email: rfnx_dev@proton.me 
 
 
-Signing identity:
+RNS signing identity:
 `748becd93d76e9f93bc308e4ebd3b8a6`
 
 `rngit` instance on NomadNet: `51b80676773cac13f4d5378fd2bb7c06`
