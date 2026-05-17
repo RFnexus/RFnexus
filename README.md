@@ -1,10 +1,18 @@
-Email: rfnx_dev@proton.me 
+#### Repos
+- [modem73](https://github.com/RFnexus/modem73)
+- [modem73interface](https://github.com/RFnexus/modem73interface)
+- [FreeDVInterface](https://github.com/RFnexus/FreeDVInterface)
+- [micron-parser-js](https://github.com/RFnexus/micron-parser-js)
 
+
+#### Contact information
+
+Email: rfnx_dev@proton.me 
 
 RNS signing identity:
 `748becd93d76e9f93bc308e4ebd3b8a6`
 
-`rngit` instance on NomadNet: `51b80676773cac13f4d5378fd2bb7c06`
+`rngit` instance on [NomadNet](https://github.com/markqvist/nomadnet): `51b80676773cac13f4d5378fd2bb7c06`
 ```
 #### Start of rsg data #########################################
 PZO5P6KN7JOVO3YPFRAGCHLTKE2BJMP3WHBSW473JVB2D7LBYVVYTS5WFCEKTJAV
