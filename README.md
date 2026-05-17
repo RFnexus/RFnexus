@@ -1,8 +1,8 @@
 #### Repos
-- [modem73](https://github.com/RFnexus/modem73)
-- [modem73interface](https://github.com/RFnexus/modem73interface)
-- [FreeDVInterface](https://github.com/RFnexus/FreeDVInterface)
-- [micron-parser-js](https://github.com/RFnexus/micron-parser-js)
+- [modem73](https://github.com/RFnexus/modem73) `rns://4cf8a0651c4d73cacd0f93ac1d95e80a/public/modem73`
+- [modem73interface](https://github.com/RFnexus/modem73interface) `rns://4cf8a0651c4d73cacd0f93ac1d95e80a/public/modem73interface`
+- [FreeDVInterface](https://github.com/RFnexus/FreeDVInterface) `rns://4cf8a0651c4d73cacd0f93ac1d95e80a/public/FreeDVInterface`
+- [micron-parser-js](https://github.com/RFnexus/micron-parser-js) `rns://4cf8a0651c4d73cacd0f93ac1d95e80a/public/micron-parser-js`
 
 
 #### Contact information
@@ -11,6 +11,8 @@ Email: rfnx_dev@proton.me
 
 RNS signing identity:
 `748becd93d76e9f93bc308e4ebd3b8a6`
+
+
 
 `rngit` instance on [NomadNet](https://github.com/markqvist/nomadnet): `51b80676773cac13f4d5378fd2bb7c06`
 ```
